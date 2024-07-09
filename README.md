@@ -7,3 +7,14 @@ This repo is for all QA exercises at SoftUni courses
 02. EXERCISE: Test Types and Test levels
 03. EXERCISE: Bugs and Bug-Tracking
 04. WORKSHOP: Manual Testing
+
+
+## :white_check_mark: QA-Fundamentals-July-2024 (Software Technologies) - [Certificated](https://softuni.bg/certificates/details/218808/1791ed76) :heavy_check_mark:
+01. EXERCISE: Computer Systems and Software
+02. EXERCISE: Operating Systems
+03. EXERCISE: Networks, Internet and Protocols
+04. ЕXERCISE: Programming Languages
+05. EXERCISE: Databases
+06. EXERCISE: Git and Github
+07. LECTURE: Software Architectures and Containers
+
