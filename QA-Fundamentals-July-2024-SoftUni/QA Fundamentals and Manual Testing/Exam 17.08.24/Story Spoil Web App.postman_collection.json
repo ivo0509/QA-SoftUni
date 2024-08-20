@@ -1,0 +1,194 @@
+{
+	"info": {
+		"_postman_id": "554103c2-0d61-459d-954b-f5616f65e16d",
+		"name": "Story Spoil Web App",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37408820"
+	},
+	"item": [
+		{
+			"name": "/api/User/Authentication",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"userName\": \"IvanBG\",\r\n    \"password\": \"123321\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://d5wfqm7y6yb3q.cloudfront.net/api/User/Authentication",
+					"protocol": "https",
+					"host": [
+						"d5wfqm7y6yb3q",
+						"cloudfront",
+						"net"
+					],
+					"path": [
+						"api",
+						"User",
+						"Authentication"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://d5wfqm7y6yb3q.cloudfront.net/api/Story/Create",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIxMjc2MjVjMC1iOTA0LTQwOTItYjQxNy03NWU0MTM2YjgzNzciLCJpYXQiOiIwOC8xNy8yMDI0IDEwOjI0OjAyIiwiVXNlcklkIjoiYzBmMmZkOTEtNmJhMS00ODhhLWE4YjMtMDhkY2JlODIzM2VlIiwiRW1haWwiOiJpdm9fMDUwOUBhYnYuYmciLCJVc2VyTmFtZSI6Ikl2YW5CRyIsImV4cCI6MTcyMzkxMTg0MiwiaXNzIjoiU3RvcnlTcG9pbF9BcHBfU29mdFVuaSIsImF1ZCI6IlN0b3J5U3BvaWxfV2ViQVBJX1NvZnRVbmkifQ.uG8GydgdpLpAORjs_kT67sNGKZsNJ6K0HpfVgq0RkyY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"My Spoiler\",\r\n    \"description\": \"This is my spoiler\",\r\n    \"url\": \"https://t4.ftcdn.net/jpg/03/23/66/75/360_F_323667551_tACEuTeqSu0xOTPvRSPIV4BVsW2ym8NW.jpg\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://d5wfqm7y6yb3q.cloudfront.net/api/Story/Create",
+					"protocol": "https",
+					"host": [
+						"d5wfqm7y6yb3q",
+						"cloudfront",
+						"net"
+					],
+					"path": [
+						"api",
+						"Story",
+						"Create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://d5wfqm7y6yb3q.cloudfront.net/api/Story/All",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIxMjc2MjVjMC1iOTA0LTQwOTItYjQxNy03NWU0MTM2YjgzNzciLCJpYXQiOiIwOC8xNy8yMDI0IDEwOjI0OjAyIiwiVXNlcklkIjoiYzBmMmZkOTEtNmJhMS00ODhhLWE4YjMtMDhkY2JlODIzM2VlIiwiRW1haWwiOiJpdm9fMDUwOUBhYnYuYmciLCJVc2VyTmFtZSI6Ikl2YW5CRyIsImV4cCI6MTcyMzkxMTg0MiwiaXNzIjoiU3RvcnlTcG9pbF9BcHBfU29mdFVuaSIsImF1ZCI6IlN0b3J5U3BvaWxfV2ViQVBJX1NvZnRVbmkifQ.uG8GydgdpLpAORjs_kT67sNGKZsNJ6K0HpfVgq0RkyY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://d5wfqm7y6yb3q.cloudfront.net/api/Story/All",
+					"protocol": "https",
+					"host": [
+						"d5wfqm7y6yb3q",
+						"cloudfront",
+						"net"
+					],
+					"path": [
+						"api",
+						"Story",
+						"All"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://d5wfqm7y6yb3q.cloudfront.net/api/Story/Edit/1f93f6e1-7992-4584-2f12-08dcbe82dad4",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIxMjc2MjVjMC1iOTA0LTQwOTItYjQxNy03NWU0MTM2YjgzNzciLCJpYXQiOiIwOC8xNy8yMDI0IDEwOjI0OjAyIiwiVXNlcklkIjoiYzBmMmZkOTEtNmJhMS00ODhhLWE4YjMtMDhkY2JlODIzM2VlIiwiRW1haWwiOiJpdm9fMDUwOUBhYnYuYmciLCJVc2VyTmFtZSI6Ikl2YW5CRyIsImV4cCI6MTcyMzkxMTg0MiwiaXNzIjoiU3RvcnlTcG9pbF9BcHBfU29mdFVuaSIsImF1ZCI6IlN0b3J5U3BvaWxfV2ViQVBJX1NvZnRVbmkifQ.uG8GydgdpLpAORjs_kT67sNGKZsNJ6K0HpfVgq0RkyY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"title\": \"My new spoiler\",\r\n    \"description\": \"This is my new spoiler\",\r\n    \"url\": \"https://t4.ftcdn.net/jpg/03/23/66/75/360_F_323667551_tACEuTeqSu0xOTPvRSPIV4BVsW2ym8NW.jpg\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://d5wfqm7y6yb3q.cloudfront.net/api/Story/Edit/1f93f6e1-7992-4584-2f12-08dcbe82dad4",
+					"protocol": "https",
+					"host": [
+						"d5wfqm7y6yb3q",
+						"cloudfront",
+						"net"
+					],
+					"path": [
+						"api",
+						"Story",
+						"Edit",
+						"1f93f6e1-7992-4584-2f12-08dcbe82dad4"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://d5wfqm7y6yb3q.cloudfront.net/api/Story/Search?keyword=My new spoiler",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJKd3RTZXJ2aWNlQWNjZXNzVG9rZW4iLCJqdGkiOiIxMjc2MjVjMC1iOTA0LTQwOTItYjQxNy03NWU0MTM2YjgzNzciLCJpYXQiOiIwOC8xNy8yMDI0IDEwOjI0OjAyIiwiVXNlcklkIjoiYzBmMmZkOTEtNmJhMS00ODhhLWE4YjMtMDhkY2JlODIzM2VlIiwiRW1haWwiOiJpdm9fMDUwOUBhYnYuYmciLCJVc2VyTmFtZSI6Ikl2YW5CRyIsImV4cCI6MTcyMzkxMTg0MiwiaXNzIjoiU3RvcnlTcG9pbF9BcHBfU29mdFVuaSIsImF1ZCI6IlN0b3J5U3BvaWxfV2ViQVBJX1NvZnRVbmkifQ.uG8GydgdpLpAORjs_kT67sNGKZsNJ6K0HpfVgq0RkyY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://d5wfqm7y6yb3q.cloudfront.net/api/Story/Search?keyword=My new spoiler",
+					"protocol": "https",
+					"host": [
+						"d5wfqm7y6yb3q",
+						"cloudfront",
+						"net"
+					],
+					"path": [
+						"api",
+						"Story",
+						"Search"
+					],
+					"query": [
+						{
+							"key": "keyword",
+							"value": "My new spoiler"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
