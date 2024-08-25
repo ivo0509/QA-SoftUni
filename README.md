@@ -18,3 +18,11 @@ This repo is for all QA exercises at SoftUni courses
 06. EXERCISE: Git and Github
 07. LECTURE: Software Architectures and Containers
 
+
+## :white_check_mark: QA-Fundamentals-And-Manual-Testing 2024 - [Certificated](https://softuni.bg/certificates/details/224593/5feb4600) :heavy_check_mark:
+01. EXERCISE: Test Management and Issue Tracking
+02. EXERCISE: Test Techniques
+03. EXERCISE: Web API and Postman
+04. ЕXERCISE: Databases
+05. Exam Preparation
+06. Regular Exam 17.08.24
