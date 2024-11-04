@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "4H0Uc0QulqQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ivo_0\\OneDrive\\Работен плот\\Programming-Fundamentals-And-Unit-Testing-September-2024-main\\24-ExamPreparation\\02.Problem2\\02.Problem2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ivo_0\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.32\\microsoft.windowsdesktop.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\ivo_0\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.32\\microsoft.netcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\ivo_0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.32\\microsoft.aspnetcore.app.ref.6.0.32.nupkg.sha512",
+    "C:\\Users\\ivo_0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.32\\microsoft.netcore.app.host.win-x64.6.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
