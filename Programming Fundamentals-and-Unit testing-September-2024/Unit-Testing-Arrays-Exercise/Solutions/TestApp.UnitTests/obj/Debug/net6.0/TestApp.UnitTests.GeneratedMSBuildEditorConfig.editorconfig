@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TestApp.UnitTests
+build_property.ProjectDir = C:\Users\ivo_0\OneDrive\Работен плот\Programming-Fundamentals-And-Unit-Testing-September-2024-main\21-Unit-Testing-Arrays-Exercise\Solutions\TestApp.UnitTests\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
