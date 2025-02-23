@@ -52,4 +52,4 @@ This repo is for all QA exercises at SoftUni courses
 08. Practical Project: Automated Testing with Playwright
 09. ExamPreparation1 11.02.25
 10. ExamPreparation2 12.02.25 
-
+11. Regular Exam 16.02.25
