@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Darina\\Desktop\\ExamPreOne_Ayrola_Solutions\\ExamPrep1_Task_2\\ExamPrep_Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B60FBFD-0FC6-45F8-8624-3347A351383C}|ExamPrep_Task2\\ExamPrep_Task2.csproj|c:\\users\\darina\\desktop\\exampreone_ayrola_solutions\\examprep1_task_2\\examprep_task2\\examprep_task2\\ideacentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B60FBFD-0FC6-45F8-8624-3347A351383C}|ExamPrep_Task2\\ExamPrep_Task2.csproj|solutionrelative:examprep_task2\\ideacentertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdeaCenterTests.cs",
+              "DocumentMoniker": "C:\\Users\\Darina\\Desktop\\ExamPreOne_Ayrola_Solutions\\ExamPrep1_Task_2\\ExamPrep_Task2\\ExamPrep_Task2\\IdeaCenterTests.cs",
+              "RelativeDocumentMoniker": "ExamPrep_Task2\\IdeaCenterTests.cs",
+              "ToolTip": "C:\\Users\\Darina\\Desktop\\ExamPreOne_Ayrola_Solutions\\ExamPrep1_Task_2\\ExamPrep_Task2\\ExamPrep_Task2\\IdeaCenterTests.cs*",
+              "RelativeToolTip": "ExamPrep_Task2\\IdeaCenterTests.cs*",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAwwKwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T17:18:45.495Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

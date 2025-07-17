@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppiumMobile_Summator", "AppiumMobile_Summator\AppiumMobile_Summator.csproj", "{341007CF-E662-4D12-A2A5-899267B30798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341007CF-E662-4D12-A2A5-899267B30798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341007CF-E662-4D12-A2A5-899267B30798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341007CF-E662-4D12-A2A5-899267B30798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341007CF-E662-4D12-A2A5-899267B30798}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {148288EC-9C39-4FE8-BB9F-6D5D32F9F436}
+	EndGlobalSection
+EndGlobal

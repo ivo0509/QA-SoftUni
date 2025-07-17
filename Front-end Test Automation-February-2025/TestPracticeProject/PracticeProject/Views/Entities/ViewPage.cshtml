@@ -1,0 +1,18 @@
+﻿@using PracticeProject.Services
+@{
+    ViewData["Title"] = "View Entity page";
+}
+
+@model DetailsEntityViewModel
+
+<div class="container d-flex justify-content-center  align-items-center">
+    <div class="h-100 p-5 bg-light border rounded-3 text-center">
+        <h2>Test Entity</h2>
+        <p>Name: @Model.Name</p>
+        <p>Description: @Model.Description</p>
+        <p>Author: @Model.Author</p>
+        <p>Status: @Model.Status</p>
+        <p>Count: @Model.Count</p>
+        <a class="btn btn-outline-danger" asp-action="Index" asp-controller="Home">Go to home page</a>
+    </div>
+</div>

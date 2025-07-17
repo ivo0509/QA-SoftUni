@@ -1,0 +1,79 @@
+/*
+ * list-people */
+
+section .list-people {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+section .list-people .item {
+	list-style: none outside;
+	display: block;
+	text-align: center;
+	flex: 0 0 47%
+}
+
+section .list-people .item .avatar {
+	width: 7rem;
+	overflow: hidden;
+	position: relative;
+	border-radius: 50%;
+	margin: 0 auto;
+	box-shadow: 0 0.2rem 1rem 0 rgba(0,0,0,0.3);
+}
+
+section .list-people .item .avatar:before {
+	display: block;
+	content:'';
+	padding-top: 100%;
+}
+
+section .list-people .item .avatar:after {
+	display: block;
+	content: '';
+	top: 0; left: 0; bottom: 0; right: 0;
+	position: absolute;
+	border-radius: 50%;
+	box-shadow: 0 0 0 0.2em rgba(255,255,255, 0.4) inset;
+	z-index: 5;
+}
+
+section .list-people .item .avatar img {
+	display: block;
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 0; left: 0;
+}
+
+section .list-people .content {
+	padding: 2rem 0;
+}
+
+section .list-people .message {
+	font-style: italic;
+	opacity: 0.9;
+	font-size: 110%;
+}
+
+section .list-people .person span {
+	display: block;
+}
+
+section .list-people .person .name {
+	font-weight: bold;
+}
+
+section .list-people .person .jobtitle {
+	opacity: 0.8;
+}
+
+
+@media screen and (min-width: 1020px) {
+
+	section .list-people .item {
+		flex: 0 0 28%;
+	}
+		
+}

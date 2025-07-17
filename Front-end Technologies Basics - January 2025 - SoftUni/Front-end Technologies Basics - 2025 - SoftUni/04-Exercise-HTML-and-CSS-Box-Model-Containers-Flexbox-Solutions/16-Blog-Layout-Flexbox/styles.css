@@ -1,0 +1,51 @@
+body {
+	padding: 5em;
+	background: #EEE;
+}
+
+.page {
+	max-width: 75rem;
+	margin: 0 auto;
+}
+
+.page > header:first-of-type {
+	border-bottom: 2px solid #000;
+}
+
+header .site-title {
+	min-width: 20vw;
+	font-weight: bold;
+	font-size: 3rem;
+	text-transform: uppercase;
+}
+
+img[class^="align-"] {
+	padding: 0.5rem;
+	background: #FFF;
+	border: 3px solid #222;
+	box-shadow: 0 0 5rem 0.1rem rgba(0,0,0,0.25);
+}
+
+.align-left {
+	float: left;
+	margin: 0 1.5rem 1rem 0;
+}
+
+.align-right {
+	float: right;
+	margin: 0 0 1rem 1.5rem;
+}
+
+blockquote {
+	width: 40%;
+	min-width: 15rem;
+	float: right;
+	color: #444;
+	font-family: Georgia, serif;
+	padding-top: 0;
+}
+
+aside a {
+	text-decoration: none;
+	color: #090;
+}

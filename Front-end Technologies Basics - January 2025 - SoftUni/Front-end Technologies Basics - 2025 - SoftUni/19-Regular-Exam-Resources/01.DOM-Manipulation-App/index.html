@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./style/css/styles.css" />
+  <title>Library Study Room Booking</title>
+</head>
+<body>
+  <h1>Library Study Room Booking</h1>
+  <main>
+    <div class="form-container">
+      <form class="booking-form">
+        <input type="number" id="room-size" placeholder="Room Size (Seats)" min="1" />
+        <input type="text" id="time-slot" placeholder="Preferred Time Slot (e.g., 2-4 PM)" />
+        <input type="text" id="full-name" placeholder="Full Name" />
+        <input type="email" id="email" placeholder="Email" />
+        <input type="tel" id="phone-number" placeholder="Phone Number" />
+      </form>
+      <button id="book-btn">Book Room</button>
+    </div>
+    <div class="preview-container" id="preview" style="display: none;">
+        <ul>
+          <li>
+            <p>Room Size: <span id="preview-room-size"></span></p>
+            <p>Time Slot: <span id="preview-time-slot"></span></p>
+            <p>To: <span id="preview-full-name"></span></p>
+            <p>Email: <span id="preview-email"></span></p>
+            <p>Phone: <span id="preview-phone-number"></span></p>
+          </li>
+          <button id="edit-btn">Edit</button>
+          <button id="confirm-btn">Confirm Booking</button>
+        </ul>
+      </div>
+    <div id="confirmation" style="display: none;">
+      <h2>Booking Confirmed! Thank you.</h2>
+      <button id="back-btn">Book Another Room</button>
+    </div>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

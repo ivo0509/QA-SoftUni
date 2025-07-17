@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\three\\Desktop\\TAA\\TestPracticeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F930D3AE-0370-4B14-B2EA-818E203AAD22}|TestProjects\\TestProject.csproj|c:\\users\\three\\desktop\\taa\\testpracticeproject\\testprojects\\practiceprojecttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F930D3AE-0370-4B14-B2EA-818E203AAD22}|TestProjects\\TestProject.csproj|solutionrelative:testprojects\\practiceprojecttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A269AC3B-DEFC-4D70-8193-7232F1742E59}|PracticeProject\\PracticeProject.csproj|c:\\users\\three\\desktop\\taa\\testpracticeproject\\practiceproject\\views\\entities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A269AC3B-DEFC-4D70-8193-7232F1742E59}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\views\\entities\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A269AC3B-DEFC-4D70-8193-7232F1742E59}|PracticeProject\\PracticeProject.csproj|c:\\users\\three\\desktop\\taa\\testpracticeproject\\practiceproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A269AC3B-DEFC-4D70-8193-7232F1742E59}|PracticeProject\\PracticeProject.csproj|solutionrelative:practiceproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\three\\Desktop\\TAA\\TestPracticeProject\\PracticeProject\\Views\\Entities\\Create.cshtml",
+              "RelativeDocumentMoniker": "PracticeProject\\Views\\Entities\\Create.cshtml",
+              "ToolTip": "C:\\Users\\three\\Desktop\\TAA\\TestPracticeProject\\PracticeProject\\Views\\Entities\\Create.cshtml",
+              "RelativeToolTip": "PracticeProject\\Views\\Entities\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T14:13:03.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\three\\Desktop\\TAA\\TestPracticeProject\\PracticeProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PracticeProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\three\\Desktop\\TAA\\TestPracticeProject\\PracticeProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PracticeProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAUwFYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T14:01:40.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PracticeProjectTests.cs",
+              "DocumentMoniker": "C:\\Users\\three\\Desktop\\TAA\\TestPracticeProject\\TestProjects\\PracticeProjectTests.cs",
+              "RelativeDocumentMoniker": "TestProjects\\PracticeProjectTests.cs",
+              "ToolTip": "C:\\Users\\three\\Desktop\\TAA\\TestPracticeProject\\TestProjects\\PracticeProjectTests.cs",
+              "RelativeToolTip": "TestProjects\\PracticeProjectTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T13:50:17.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

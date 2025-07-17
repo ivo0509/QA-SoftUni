@@ -1,0 +1,57 @@
+html {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+body {
+  background-color: rgb(238, 238, 238);
+  padding: 20px 350px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Georgia, serif;
+  font-size: 1.5em;
+  line-height: 1.2;
+}
+
+.site-header {
+  text-transform: uppercase;
+  margin: 10px 0;
+  font-weight: bold;
+  font-size: 3 0px;
+  font-size: 35px;
+}
+
+.site-title {
+  border-bottom: 2px solid rgb(0, 0, 0);
+  display: flex;
+  justify-content: space-between;
+}
+
+.heading-nav a {
+  color: rgb(0, 153, 0);
+  text-decoration: none;
+}
+
+.heading-nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.heading-nav li {
+  padding: 10px;
+}

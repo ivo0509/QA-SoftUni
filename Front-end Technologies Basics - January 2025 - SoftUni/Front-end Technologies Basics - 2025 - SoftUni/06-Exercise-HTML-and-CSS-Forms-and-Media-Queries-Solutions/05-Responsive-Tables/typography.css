@@ -1,0 +1,136 @@
+html {
+	font: 12px/1.5 Helvetica, sans-serif;
+}
+
+@media screen and (min-width: 500px) { html { font-size: 14px } }
+@media screen and (min-width: 600px) { html { font-size: 16px } }
+@media screen and (min-width: 800px) { html { font-size: 18px } }
+@media screen and (min-width: 1300px) { html { font-size: 21px } }
+@media screen and (min-width: 1800px) { html { font-size: 23px } }
+
+body {
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font: 1em/1.2 Georgia, serif;
+	margin: 1em 0 0.5em 0;
+	padding: 0;
+}
+
+h1 { font-size: 2.2rem; }
+h2 { font-size: 2.0rem; }
+h3 { font-size: 1.8rem; }
+h4 { font-size: 1.6rem; }
+h5 { font-size: 1.4rem; }
+h6 { font-size: 1.2rem; }
+
+p {
+	margin: 0;
+	padding-bottom: 1.5rem;
+}
+
+ol, ul, dl {
+	margin: 0 0 1.5rem 0;
+}
+
+ul, ol {
+	padding: 0;
+	margin-left: 1.5rem;
+}
+
+ul li, ol li {
+	list-style-position: inside;
+}
+
+ul ul {
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+}
+
+ul li { list-style-type: square; }
+ul ul li { list-style-type: disc; }
+ul ul ul li { list-style-type: circle; }
+
+blockquote {
+	border-left: 4px solid #DDD;
+	font-style: italic;
+	margin: 0 0 1.5rem 2rem;
+	padding: 1rem 2rem;
+	position: relative;
+	color: #444;
+	font-family: "Georgia", serif;
+	padding-top: 0;
+}
+
+blockquote .author {
+	text-align: right;
+}
+
+@media screen and (min-width: 500px) { 
+	blockquote {
+		width: 40%;
+	}
+}
+
+table {
+	width: 100%;
+	table-layout: fixed;
+	margin-bottom: 1.5rem;
+	border-spacing: 0;
+	border-collapse: collapse;
+	background: #FFF;
+}
+
+table td, table th {
+	border: 1px solid #CCC;
+	padding: 0.3rem 0.5rem;
+}
+
+table thead th {
+	text-align: left;
+	background: #333;
+	color: #FFF;
+	font-weight: normal;
+}
+
+table tr:nth-child(odd) td {
+	background: #F1F1F1;
+}
+
+table tr:hover td {
+	background: black;
+	color: #FFF;
+	border-color: transparent;
+}
+
+hr {
+	margin: 2rem 0;
+}
+
+img[class^="align-"] {
+	padding: 0.5rem;
+	background: #FFF;
+	border: 3px solid #222;
+	box-shadow: 0 0 5rem 0.1rem rgba(0,0,0,0.25);
+}
+
+@media screen and (max-width: 500px) { 
+	img[class^="align-"] {
+		display: block;
+		margin: 1.5rem 0;
+	}
+}
+
+@media screen and (min-width: 500px) { 
+
+	.align-left {
+		float: left;
+		margin: 0 1.5rem 1rem 0;
+	}
+
+	.align-right {
+		float: right;
+		margin: 0 0 1rem 1.5rem;
+	}
+
+}

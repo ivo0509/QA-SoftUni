@@ -1,0 +1,115 @@
+html {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+@media screen and (min-width: 1800px) {
+  html {
+    font-size: 23px;
+  }
+}
+
+@media screen and (min-width: 1300px) {
+  html {
+    font-size: 21px;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 600px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@media screen and (min-width: 500px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 499px) {
+  html {
+    font-size: 12px;
+  }
+}
+
+
+body {
+  background-color: rgb(238, 238, 238);
+  padding: 20px 370px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Georgia, serif;
+  font-size: 1.2em;
+}
+
+.site-header {
+  border-bottom: 3px solid black;
+}
+
+.site-title {
+  text-transform: uppercase;
+  margin: 10px 0;
+  font-weight: bold;
+  font-size: 3 0px;
+  font-size: 35px;
+}
+
+img {
+  padding: 5px;
+  border: 3px solid black;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 0px 2px 2px rgba(0, 0, 0, 0.25);
+}
+
+blockquote {
+  border-left: 3px solid lightgray;
+  padding-left: 20px;
+  font-style: italic;
+  color: gray;
+  font-family: Georgia, serif;
+  flex-basis: 50%;
+}
+
+figcaption {
+  text-align: right;
+}
+
+nav li a {
+  color: rgb(0, 153, 0);
+}
+
+main {
+  margin: 20px auto;
+}
+
+.blockquote-container {
+  display: flex;
+}
+
+.blockquote-container-text {
+  flex-basis: 50%;
+}
+
+.first-img {
+  float: right;
+  margin: 0 0 20px 20px;
+}
+
+.second-img {
+  float: left;
+  margin: 0 20px 20px 0;
+}

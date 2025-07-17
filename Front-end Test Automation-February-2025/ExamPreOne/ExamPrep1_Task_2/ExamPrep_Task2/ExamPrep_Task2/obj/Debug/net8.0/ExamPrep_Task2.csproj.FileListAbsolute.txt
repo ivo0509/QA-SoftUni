@@ -1,0 +1,211 @@
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\testhost.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\testhost.exe
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ExamPrep_Task2.deps.json
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ExamPrep_Task2.runtimeconfig.json
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ExamPrep_Task2.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ExamPrep_Task2.pdb
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\WebDriver.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.csproj.AssemblyReference.cache
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.AssemblyInfoInputs.cache
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.AssemblyInfo.cs
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.csproj.CoreCompileInputs.cache
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.sourcelink.json
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep.2D1B3F78.Up2Date
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\refint\ExamPrep_Task2.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.pdb
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.genruntimeconfig.cache
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ref\ExamPrep_Task2.dll
+C:\Users\ayrol\OneDrive\Работен плот\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\testhost.exe
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\testhost.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ExamPrep_Task2.deps.json
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ExamPrep_Task2.runtimeconfig.json
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ExamPrep_Task2.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ExamPrep_Task2.pdb
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\SeleniumExtras.WaitHelpers.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\WebDriver.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.csproj.AssemblyReference.cache
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.AssemblyInfoInputs.cache
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.AssemblyInfo.cs
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep.2D1B3F78.Up2Date
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\refint\ExamPrep_Task2.dll
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.pdb
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ExamPrep_Task2.genruntimeconfig.cache
+C:\Users\Darina\Desktop\ExamPreOne_Ayrola_Solutions\ExamPrep1_Task_2\ExamPrep_Task2\ExamPrep_Task2\obj\Debug\net8.0\ref\ExamPrep_Task2.dll

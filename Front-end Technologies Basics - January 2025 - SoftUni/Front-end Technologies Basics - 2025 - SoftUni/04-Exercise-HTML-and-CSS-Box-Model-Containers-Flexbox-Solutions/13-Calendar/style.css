@@ -1,0 +1,48 @@
+html {
+  font-family: Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: inherit;
+}
+
+div {
+  max-width: 65vw;
+  display: flex; 
+}
+
+span {
+  border: 1px solid black;
+  padding: 20px 20px 70px 20px;
+  text-align: center;
+}
+
+.week {
+    flex-basis: 70%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.notes {
+    flex-basis: 30%;
+    display: flex;
+    flex-direction: column;
+}
+
+.workweek,
+.weekend {
+    flex-basis: 100%;
+}
+
+.week span {
+    flex-grow: 1;
+}
+
+.notes span {
+    flex-grow: 1;
+}
+
+

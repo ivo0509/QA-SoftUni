@@ -1,0 +1,46 @@
+html {
+  font-family: Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+body {
+  background-color: rgb(238, 238, 238);
+  padding: 20px 370px;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Georgia, serif;
+  font-size: 1.2em;
+}
+
+.site-header {
+  border-bottom: 3px solid black;
+}
+
+.site-title {
+  text-transform: uppercase;
+  margin: 10px 0;
+  font-weight: bold;
+  font-size: 3 0px;
+  font-size: 35px;
+}
+
+footer p {
+  color: rgb(255, 255, 255);
+  background-color: rgb(102, 102, 102);
+}
+
+body footer {
+  background-color: rgb(102, 102, 102);
+  margin-top: auto;
+  color: rgb(255,255,255);
+}

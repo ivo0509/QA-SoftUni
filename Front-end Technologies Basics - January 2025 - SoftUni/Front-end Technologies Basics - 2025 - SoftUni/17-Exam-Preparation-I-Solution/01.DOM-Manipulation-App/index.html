@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./style/css/styles.css" />
+  <title>Ticket Rift Rock</title>
+</head>
+
+<body class="body">
+  <h1>Ticket Rift Rock</h1>
+  <main id="content">
+    <div class="form-container">
+      <form class="ticket-form">
+        <input type="number" id="num-tickets" placeholder="Number of Tickets" name="numTickets" min="1">
+        <select id="seating-preference" name="seatingPreference">
+          <option value="seating-preference" selected disabled>Seating Preference</option>
+          <option value="General">General Admission</option>
+          <option value="VIP">VIP</option>
+        </select>
+        <input type="text" id="full-name" placeholder="Full Name" name="fullName">
+        <input type="email" id="email" name="email" placeholder="Email">
+        <input type="tel" id="phone-number" name="phoneNumber" placeholder="Phone Number">
+      </form>
+      <button id="purchase-btn">Purchase Tickets</button>
+    </div>
+  </main>
+  <div class="bottom-content">
+    <div class="preview bot">
+      <ul id="ticket-preview" style="display: none;">
+        <li class="ticket-purchase">
+          <article>
+            <p>Count: <span id="purchase-num-tickets"></span></p>
+            <p>Preference: <span id="purchase-seating-preference"></span></p>
+            <p>To: <span id="purchase-full-name"></span></p>
+            <p>Email: <span id="purchase-email"></span></p>
+            <p>Phone Number: <span id="purchase-phone-number"></span></p>
+          </article>
+          <div class="btn-container">
+            <button id="edit-btn">Edit</button>
+            <button id="buy-btn">Buy</button>
+          </div>
+        </li>
+	    </ul>
+    </div>
+    <div id="purchase-success" style="display: none;">
+      <h2>Thank you for your purchase!</h2>
+      <button id="back-btn">Back</button>
+    </div>
+  </div>
+  <script src="app.js"></script>
+
+</body>
+
+</html>

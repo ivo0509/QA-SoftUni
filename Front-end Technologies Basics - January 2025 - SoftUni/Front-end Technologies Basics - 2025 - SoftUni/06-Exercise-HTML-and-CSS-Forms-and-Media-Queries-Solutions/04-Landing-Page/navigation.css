@@ -1,0 +1,120 @@
+nav.main {
+	align-self: center;
+}
+
+nav.main ul {
+	padding: 0.5rem;
+	border-radius: 0.3rem;
+	margin: 0;
+}
+
+nav.main ul ul {
+	display: none;
+	position: absolute;
+	top: 100%;
+	left: -0.5rem;
+	width: 10rem;
+}
+
+nav.main ul ul ul {
+	top: -0.5rem; right: 100%;
+	left: inherit;
+}
+
+nav.main ul li {
+	display: block;
+	list-style: none outside;
+	position: relative;
+}
+
+nav.main > ul > li > ul li:not(:last-child) {
+	padding-bottom: 0.5rem;
+}
+
+nav.main > ul > li {
+	padding: 0 0.5rem 0 0;
+}
+
+nav.main ul li:hover > a {
+}
+
+
+nav.main ul li a {
+	display: block;
+	padding: 0.5rem 1rem;
+	border-radius: 0.4rem;
+	text-decoration: none;
+	color: #333;
+}
+
+nav.main ul li a:hover,
+nav.main ul li:hover > a {
+	color: #090;
+}
+
+#main-nav-toggle,
+#toggle {
+	display: none;
+}
+
+#toggle {
+	position: relative;
+	flex: 1 0 100%;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+	padding: 1rem 0;
+}
+
+#toggle i.fas {
+	display: inline-block;
+	margin-right: 0.4rem;
+}
+
+#toggle i.fa-times {
+	display: none;
+}
+
+@media screen and (max-width: 800px) {
+
+	#toggle {
+		display: flex;
+		flex: 0 0 auto;
+	}
+
+	nav.main {
+		display: none;
+		border-top: 2px solid #000;
+	}
+
+	nav.main ul li:not(:first-child) {
+		padding-top: 0.5rem;
+	}
+
+	#main-nav-toggle:checked + header nav.main {
+		display: block;
+		flex: 1 0 100%;
+		margin-top: 1rem;
+		text-align: center;
+	}
+
+	#main-nav-toggle:checked + header #toggle i.fa-bars {
+		display: none;
+	}
+
+	#main-nav-toggle:checked + header #toggle i.fa-times {
+		display: block;
+	}
+
+}
+
+@media screen and (min-width: 800px) {
+
+	nav.main ul {
+		display: flex;
+	}
+
+	nav.main ul li:hover > ul {
+		display: block;
+	}
+}

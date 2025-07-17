@@ -1,0 +1,96 @@
+﻿@using PracticeProject.Services
+@{
+    ViewData["Title"] = "Home Page";
+}
+@model List<DetailsEntityViewModel>
+<section class="jumbotron text-center">
+    <div class="container">
+        <h1 class="jumbotron-heading" id="welcome-msg">Welcome to Test Practice Application</h1>
+        <p class="lead text-muted">This is a test practice project. You can exercise your knowledge about testing tools.
+            You will find a lot of diffrend elements for testing here. Such as buttons, tables, forms, links and etc.
+        </p>
+        <p>
+            <a asp-action="Create" asp-controller="Entities" class="btn btn-primary my-2">Create new Test Entity</a>
+            <a asp-action="Privacy" asp-controller="Home" class="btn btn-secondary my-2">Go to Privacy page</a>
+        </p>
+    </div>
+</section>
+<div class="album py-5 bg-light">
+    <div class="container">
+
+        <div class="row">
+            <div class="card col-md-4" style="width: 20rem; margin-left: 2rem; margin-right: 2rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Selenium</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Framework for FE testing</h6>
+                    <p class="card-text">The project is meaningless. Its only purpose is to be used for Selenium testing. Enjoy a lot of diffrend elements that can be tested through Selenium WebDriver</p>
+                    <ul>
+                        <li><a href="https://www.selenium.dev/" class="card-link">Selenium Web site</a></li>
+                        <li><a href="https://www.selenium.dev/documentation/webdriver/" class="card-link">Selenium WebDriver Documentation</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card col-md-4" style="width: 20rem;  margin-left: 2rem; margin-right: 2rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Selenium Grid</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Framework for Parallel Testing</h6>
+                    <p class="card-text">Do you want to test the project on diffrend brousers and environments? Well, there is a solution - use Selenium Grid</p>
+                    <ul>
+                        <li><a href="https://www.selenium.dev/downloads/" class="card-link">Selenium Server Download</a></li>
+                        <li><a href="https://www.selenium.dev/documentation/grid/" class="card-link">Selenium Grid Documentation</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="card col-md-4" style="width: 20rem;  margin-left: 2rem; margin-right: 2rem;">
+                <div class="card-body">
+                    <h5 class="card-title">Selenoid</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">Alternative of Selenium Grid</h6>
+                    <p class="card-text">Another solution for your parallel testing on diffrend browsers and environments</p>
+                    <ul>
+                        <li><a href="https://aerokube.com/selenoid/latest/" class="card-link">Selenoid Documentation</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<section class="jumbotron text-center">
+    <div class="container">
+        <h1 class="jumbotron-heading">You can check all your created entites from here:</h1>
+        <p class="lead text-muted">
+            In the table are all created entities. Keep in mind that each new start of the project will flush all created entites, so you will start from beginning state of the application.
+        </p>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Description</th>
+                    <th scope="col">Author</th>
+                    <th scope="col">Status</th>
+                    <th scope="col">Count</th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 1; i <= Model.Count; i++)
+                {
+                    <tr >
+                        <th scope="row">@i</th>
+                        <td class="entity_name">@Model[i -1].Name</td>
+                        <td class="entity_description">@Model[i - 1].Description</td>
+                        <td class="entity_author">@Model[i - 1].Author</td>
+                        <td class="entity_status">@Model[i - 1].Status</td>
+                        <td class="entity_count">@Model[i - 1].Count</td>
+                        <td class="entity_viewBtn"><a class="btn btn-secondary" asp-action="ViewPage" asp-controller="Entities" asp-route-entityId="@Model[i -1].Id" role="button">View</a></td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>
+

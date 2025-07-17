@@ -1,0 +1,51 @@
+button, .button {
+	display: inline-block;
+	position: relative;
+	outline: none;
+	border: 0;
+	text-decoration: none;
+	padding: 0;
+	font-size: 0.8rem;
+	line-height: 1;
+	cursor: pointer;
+	background: transparent;
+	color: #333;
+	border: 2px solid #333;
+	border-radius: 0.2rem;
+	padding: 0.5rem 1rem;
+	font-weight: bold;
+	margin: 0 1rem 1rem 0;
+}
+
+button:last-child, .button:last-child {
+	margin-bottom: 0;
+}
+
+button:hover,
+button:focus,
+.button:hover,
+.button:focus {
+	border-color: #060;
+	color: #060;
+	background: #FFF;
+}
+
+button.fill, .button.fill {
+	background: #333;
+	color: #FFF;
+}
+
+button.fill:hover,
+button.fill:focus,
+.button.fill:hover,
+.button.fill:focus {
+	border-color: #060;
+	color: #FFF;
+	background: #060;
+}
+
+button span.fas, .button span.fas {
+	display: inline-block;
+	font-size: 0.9em;
+	margin-right: 0.3rem;
+}

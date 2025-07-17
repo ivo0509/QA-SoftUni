@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Helvetica');
+html{
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.container{
+    display: flex;
+    text-align: center;
+    max-width: 15vw;
+    height: 35rem;
+}
+span{
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+}
+span:nth-child(2){
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+
+}
+span:nth-child(10){
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    display: flex;
+}

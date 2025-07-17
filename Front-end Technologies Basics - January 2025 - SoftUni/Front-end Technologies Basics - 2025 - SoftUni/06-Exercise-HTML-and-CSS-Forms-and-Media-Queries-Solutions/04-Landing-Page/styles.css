@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Merriweather:400,400i,700,700i&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700');
+@import url("https://use.fontawesome.com/releases/v5.15.3/css/all.css");
+
+
+@import url('reset.css');
+@import url('typography.css');
+@import url('buttons.css');
+@import url('forms.css');
+@import url('layout.css');
+@import url('navigation.css');
+@import url('elements.css');
+
+body {
+	background-color: #ffffff;
+	background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='50' height='40' viewBox='0 0 50 40'%3E%3Cg fill-rule='evenodd'%3E%3Cg fill='%23f2f2f2' fill-opacity='0.4'%3E%3Cpath d='M40 10L36.67 0h-2.11l3.33 10H20l-2.28 6.84L12.11 0H10l6.67 20H10l-2.28 6.84L2.11 10 5.44 0h-2.1L0 10l6.67 20-3.34 10h2.11l2.28-6.84L10 40h20l2.28-6.84L34.56 40h2.1l-3.33-10H40l2.28-6.84L47.89 40H50l-6.67-20L50 0h-2.1l-5.62 16.84L40 10zm1.23 10l-2.28-6.84L34 28h4.56l2.67-8zm-10.67 8l-2-6h-9.12l2 6h9.12zm-12.84-4.84L12.77 38h15.79l2.67-8H20l-2.28-6.84zM18.77 20H30l2.28 6.84L37.23 12H21.44l-2.67 8zm-7.33 2H16l-4.95 14.84L8.77 30l2.67-8z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+
+.site {
+
+}
+
+.wrapper {
+	max-width: 70rem;
+	margin: 0 auto;
+	padding-left: 2rem;
+	padding-right: 2rem;
+}
+
+.site-header p,
+.site-footer p {
+	padding: 0;
+	margin: 0;
+}
+
+/*
+ * Site Header */
+.site-header {
+	position: sticky;
+}
+
+.site-header .wrapper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	flex-wrap: wrap;
+}
+
+.site-header .site-title {
+}
+
+.site-header .site-title a {
+	text-decoration: none;
+	color: purple;
+	font-size: 2rem;
+	font-variant-ligatures: common-ligatures;
+	font-feature-settings: "smcp", "swsh" 2;
+}
+
+.site-header .site-description {
+	font-size: 0.9rem;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-transform: uppercase;
+	color: #444;
+}
+
+/*
+ * Site Footer */
+.site-footer .wrapper {
+	padding-bottom: 3rem;
+	padding-top: 2rem;
+}
+
+@media screen and (min-width: 1020px) {
+	.site-footer .wrapper {
+		display: flex;
+		justify-content: space-between;	
+	}
+}
+
+.site-footer ul {
+	padding: 0;
+	margin: 0;
+}
+
+.site-footer li {
+	display: block;
+	list-style: none outside;
+}
+
+.site-footer .about {
+	flex: 0 0 30%;
+}
+
+.site-footer .sitemap {
+	flex: 0 0 30%;
+}
+
+.site-footer .sitemap ul {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.site-footer .sitemap li {
+	display: block;
+	list-style: none outside;
+	flex: 0 0 50%;
+}
+
+.site-footer .sitemap li a {
+	text-decoration: none;
+	color: #333;
+}
+
+.site-footer .contacts li {
+	display: block;
+	list-style: none outside;
+	flex: 0 0 50%;
+	font-size: 110%;
+	line-height: 1.2;
+	position: relative;
+	padding-left: 2rem;
+	padding-bottom: 0.5rem;
+}
+
+.site-footer .contacts li i {
+	display: inline-block;
+	position: absolute;
+	top: 0.1rem; left: 0;
+	width: 1.7rem;
+	text-align: center;
+}
+
+/*
+ * Section header */
+.site > section header {
+	flex: 1 0 100%;
+	text-align: center;
+	padding-bottom: 1rem;
+}
+
+.site > section header h2 {
+	margin-top: 0;
+}
+
+.site > section header:after {
+	display: block;
+	content: '';
+	width: 6rem;
+	height: 0.2rem;
+	background: #000;
+	margin: 1.5rem auto;
+}
+
+/*
+ * Call to Action */
+
+section.call-to-action {
+}
+
+section.call-to-action .wrapper {
+	display: flex;
+	align-items: center;
+	padding-top: 2rem;
+	padding-bottom: 4rem;
+}
+
+section.call-to-action .copy {
+	flex: 0 0 60%;
+}
+
+section.call-to-action i.fas {
+	font-size: 10rem;
+	margin-left: 2rem;
+}
+
+@media screen and (min-width: 800px) {
+	section.call-to-action .wrapper {
+		padding-top: 4rem;
+		padding-bottom: 6rem;
+	}
+
+	section.call-to-action .copy {
+		padding-left: 6rem;
+	}
+
+	section.call-to-action i.fas {
+		margin-left: 4rem;
+	}
+}
+
+/*
+ * Testimonials */
+section.testimonials {
+	color: #333;
+	background-color: #ffffff;
+	background-image: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23cccccc' fill-opacity='0.05' fill-rule='evenodd'%3E%3Cpath d='M0 40L40 0H20L0 20M40 40V20L20 40'/%3E%3C/g%3E%3C/svg%3E");
+	box-shadow: 0 0 2rem 0.2rem rgba(0,0,0,0.2);
+}
+
+section.testimonials .wrapper {
+	padding: 3rem 2rem 5rem 2rem;
+}
+
+/*
+ * Newsletter */
+
+section.newsletter {
+	background-color: #68347b;
+	background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23764189' fill-opacity='0.4'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+	color: #FFF;
+	padding: 2rem 0;
+	box-shadow: 0 0 2rem 0.2rem rgba(0,0,0,0.2);
+}
+
+section.newsletter .field {
+	display: flex;
+}
+
+section.newsletter .field .input {
+	flex: 1 0 auto;
+}
+
+section.newsletter .button {
+	background: #FFF;
+	margin-left: 0.5rem;
+}

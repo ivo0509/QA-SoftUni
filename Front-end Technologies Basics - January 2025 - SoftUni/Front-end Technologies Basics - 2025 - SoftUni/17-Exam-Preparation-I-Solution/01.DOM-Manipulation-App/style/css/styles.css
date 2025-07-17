@@ -1,0 +1,167 @@
+@import url("https://fonts.googleapis.com/css2?family=New+Rocker&display=swap");
+
+body {
+  background-image: url("../images/stagebg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+  font-family: "New Rocker", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+body>h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 10vh;
+  text-shadow: 3px 3px black;
+  color: rgb(255, 1, 1);
+  margin-top: -7px;
+}
+
+#content {
+  margin-top: -200px;
+}
+
+.ticket-form {
+  width: 60vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 25px;
+  margin-top: 13.5rem;
+  margin-left: 3rem;
+  background-color: #0f0c1f8d;
+  padding: 20px 0px;
+  border-radius: 20px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.ticket-form input,
+.ticket-form button {
+  width: 10rem;
+  height: 1.6rem;
+}
+
+.ticket-form select {
+  margin-right: 2rem;
+  width: 11rem;
+  height: 2rem;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+h2 {
+  font-size: 44px;
+  text-shadow: 2px 2px black;
+  color: rgb(255, 255, 255);
+}
+
+button {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 0, 0);
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 1s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.719);
+  font-family: "New Rocker", system-ui;
+  font-size: 18px;
+}
+
+button:hover {
+  background-color: #ffffff;
+  color: black;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  background-color: red;
+  color: white;
+  scale: 0.6;
+}
+
+#purchase-success {
+  text-align: center;
+}
+
+#back-btn {
+  width: 15vw;
+  height: 10vh;
+  cursor: pointer;
+  font-size: 28px;
+}
+
+.bottom-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 70px;
+}
+
+.bottom-content li {
+  background-color: rgba(255, 255, 255, 0.619);
+  width: 70vw;
+  height: 20vh;
+  display: flex;
+  padding: 0px 30px;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.bottom-content li article {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-right: 40px;
+  flex-wrap: wrap;
+}
+
+.purchase p {
+  margin: 0;
+  font-size: 13px;
+}
+
+
+@media (max-width: 700px) {
+  .bottom-content li {
+    width: 50vw;
+    height: 90vh;
+  }
+}
