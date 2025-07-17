@@ -53,3 +53,14 @@ This repo is for all QA exercises at SoftUni courses
 09. ExamPreparation1 11.02.25
 10. ExamPreparation2 12.02.25 
 11. Regular Exam 16.02.25
+
+## :white_check_mark:Front-End Test Automation - February 2025 - [Certificated](https://softuni.bg/certificates/details/243017/64f90bfb) :heavy_check_mark:
+01. EXERCISE: Selenium Introduction IDE
+02. EXERCISE: Selenium WebDriver
+03. EXERCISE: Selenium Webdriver Wait
+04. EXERCISE: Selenium Webdriver POM
+05. EXERCISE: Appium Mobile
+06. Test Automation Architecture
+07. Workshop: Building a CI System with Selenium and Appium Automated Tests
+08. Exam Preparation
+09. Exam Preparation
