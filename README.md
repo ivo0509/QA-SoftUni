@@ -40,6 +40,20 @@ This repo is for all QA exercises at SoftUni courses
 10. ExamPreparation1 29.10.24
 11. ExamPreparation2 30.10.24
 
+## :white_check_mark: Programming Advanced For QA- November 2024 - [Certificated](https://softuni.bg/certificates/details/232645/a17516ec) :heavy_check_mark:
+01. Text Processing
+02. Regular Expressions
+03. Unit testing- Text Processing and Regular Expressions
+04. Dictionaries, Lambda and LINQ
+05. EXERCISE: Dictionaries, Lambda and LINQ
+06. Unit testing- Dictionaries, Lambda and LINQ
+07. Objects and Classes
+08. EXERCISE: Objects and Classes
+09. Unit testing - Objects and Classes
+10. Exception Handling
+      
+
+
 
 ## :white_check_mark:Front-End Technologies Basics - January 2025 - [Certificated](https://softuni.bg/certificates/details/238073/fa57ef6d) :heavy_check_mark:
 01. EXERCISE: HTML and CSS: Tags and Selectors
