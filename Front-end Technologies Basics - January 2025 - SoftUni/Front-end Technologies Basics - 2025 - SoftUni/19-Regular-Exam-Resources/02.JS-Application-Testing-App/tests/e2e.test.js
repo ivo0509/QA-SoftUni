@@ -148,7 +148,7 @@ describe("e2e tests", () => {
             await page.click("//button[@type='submit']");
              
 
-            await expect(page.locator("//div[@class ='book-details']//h2[text() = 'My Harry Potter edited 2']")).toBeVisible();
+            await expect(page.locator('//div[@class="book-details"]//h2', {hasText : bookTitle})).toHaveCount(1);
             expect(page.url()).toBe(host + '/collection');
 
 
